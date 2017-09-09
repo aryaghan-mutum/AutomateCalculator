@@ -1,4 +1,4 @@
-#### App Description:
+### App Description:
 Automate and verfity the calculator application
 
 ### Backend Description
