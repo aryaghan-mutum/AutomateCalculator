@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="9648" started-at="2017-09-09T17:45:43Z" finished-at="2017-09-09T17:45:53Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="9648" started-at="2017-09-09T17:45:43Z" finished-at="2017-09-09T17:45:53Z">
+      <class name="com.calculator.test.TestApp">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.calculator.test.TestApp@6d00a15d]" name="setup" is-config="true" duration-ms="2551" started-at="2017-09-09T10:45:43Z" finished-at="2017-09-09T10:45:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="addNumbers()[pri:0, instance:com.calculator.test.TestApp@6d00a15d]" name="addNumbers" duration-ms="464" started-at="2017-09-09T10:45:46Z" finished-at="2017-09-09T10:45:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addNumbers -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.calculator.test.TestApp@6d00a15d]" name="tearDown" is-config="true" duration-ms="90" started-at="2017-09-09T10:45:46Z" finished-at="2017-09-09T10:45:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.calculator.test.TestApp@6d00a15d]" name="setup" is-config="true" duration-ms="1575" started-at="2017-09-09T10:45:46Z" finished-at="2017-09-09T10:45:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="divideNumbers()[pri:0, instance:com.calculator.test.TestApp@6d00a15d]" name="divideNumbers" duration-ms="436" started-at="2017-09-09T10:45:48Z" finished-at="2017-09-09T10:45:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- divideNumbers -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.calculator.test.TestApp@6d00a15d]" name="tearDown" is-config="true" duration-ms="89" started-at="2017-09-09T10:45:48Z" finished-at="2017-09-09T10:45:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.calculator.test.TestApp@6d00a15d]" name="setup" is-config="true" duration-ms="1665" started-at="2017-09-09T10:45:49Z" finished-at="2017-09-09T10:45:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="multiplyNumbers()[pri:0, instance:com.calculator.test.TestApp@6d00a15d]" name="multiplyNumbers" duration-ms="489" started-at="2017-09-09T10:45:50Z" finished-at="2017-09-09T10:45:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- multiplyNumbers -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.calculator.test.TestApp@6d00a15d]" name="tearDown" is-config="true" duration-ms="111" started-at="2017-09-09T10:45:51Z" finished-at="2017-09-09T10:45:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.calculator.test.TestApp@6d00a15d]" name="setup" is-config="true" duration-ms="1588" started-at="2017-09-09T10:45:51Z" finished-at="2017-09-09T10:45:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="subtractNumbers()[pri:0, instance:com.calculator.test.TestApp@6d00a15d]" name="subtractNumbers" duration-ms="474" started-at="2017-09-09T10:45:52Z" finished-at="2017-09-09T10:45:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- subtractNumbers -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.calculator.test.TestApp@6d00a15d]" name="tearDown" is-config="true" duration-ms="77" started-at="2017-09-09T10:45:53Z" finished-at="2017-09-09T10:45:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.calculator.test.TestApp -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
